@@ -22,7 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
+  - title: Passive NLOS Imaging 
+    company: Image Processing Institute, UESTC
+    company_url: ''
+    location: China
+    date_start: '2019-11-31'
+    date_end: '2020-11-15'
+    description: 
 
   - title: Single Photon NLOS Imaging 
     company: Image Processing Institute, UESTC
