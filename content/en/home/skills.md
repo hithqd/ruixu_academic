@@ -25,6 +25,10 @@ feature:
   icon_pack: fas
   name: workout
 - description: 
+  icon: chess-board
+  icon_pack: fas
+  name: Go
+- description: 
   icon: route
   icon_pack: fas
   name: travel
