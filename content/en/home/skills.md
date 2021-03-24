@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 125
 
-title: Skills
+title: Hobbies
 subtitle:
 
 # Showcase personal skills or business features.
@@ -17,17 +17,17 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: python
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+  name: python
+- description: 90%
+  icon: medium-m
+  icon_pack: fab
+  name: matlab
 - description: 10%
-  icon: camera-retro
+  icon: :swimmer:
   icon_pack: fas
-  name: Photography
+  name: swimming
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
