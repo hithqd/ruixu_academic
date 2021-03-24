@@ -11,7 +11,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: gengruixv@163.com
-  - icon: twitter
+  - icon: winxin
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
