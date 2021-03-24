@@ -26,18 +26,18 @@ item:
 - certificate_url: https://github.com/ruixv/ruixu_academic/blob/master/static/uploads/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%9120172018_%E8%80%BF%E7%91%9E%E6%97%AD.pdf
   date_end: ""
   date_start: "2018-11-20"
-  description: ""
+  description: "Top 0.2% in China"
   organization: Ministry of Education of the PRC
   organization_url: http://www.moe.gov.cn/
   title: National Scholarship (2018-2019)
   url: ""
-- certificate_url: ttps://www.coursera.orgh
+- certificate_url: https://github.com/ruixv/ruixu_academic/blob/master/static/uploads/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%9120172018_%E8%80%BF%E7%91%9E%E6%97%AD.pdf
   date_end: ""
-  date_start: "2018-11-01"
+  date_start: "2018-11-20"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Ministry of Education of the PRC
+  organization_url: http://www.moe.gov.cn/
+  title: National Scholarship (2018-2019)
   url: ""
 
 ---
