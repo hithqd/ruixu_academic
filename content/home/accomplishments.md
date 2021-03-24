@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://github.com/ruixv/ruixu_academic/blob/master/static/uploads/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%9120172018_%E8%80%BF%E7%91%9E%E6%97%AD.pdf
+- certificate_url: https://ieeextreme.org/ieeextreme-14-0-ranking/
   date_end: ""
-  date_start: "2020-10-01"
-  description: "The 1-st prize scholarship"
-  organization: UESTC
-  organization_url: https://en.uestc.edu.cn/
-  title: Excellent graduate student of UESTC
+  date_start: "2020-12-01"
+  description: "Top 10%"
+  organization: IEEE
+  organization_url: https://ieeextreme.org/ieeextreme-14-0-ranking/
+  title: IEEEXtreme 24-hours of competitive programming
   url: ""
 - certificate_url: https://github.com/ruixv/ruixu_academic/blob/master/static/uploads/%E5%9B%9B%E5%B7%9D%E7%9C%81%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E7%94%9F_%E8%80%BF%E7%91%9E%E6%97%AD.pdf
   date_end: ""
@@ -50,7 +50,7 @@ item:
 - certificate_url: https://github.com/ruixv/ruixu_academic/blob/master/static/uploads/%E7%BE%8E%E8%B5%9BM%E5%A5%96_%E8%80%BF%E7%91%9E%E6%97%AD.pdf
   date_end: ""
   date_start: "2018-05-10"
-  description: "Top 0.2% in China"
+  description: "Top 7%"
   organization: Consortium for Mathematics and Its Applications
   organization_url: https://www.comap.com/undergraduate/contests/
   title: Meritorious Winner in Interdisciplinary Contest in Modeling
