@@ -29,8 +29,8 @@ organizations:
 education:
   courses:
     - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+      institution: University of Electronic Science and Technology of China
+      year: 2022
     - course: BSc in Information and Communication Engineering
       institution: University of Electronic Science and Technology of China
       year: 2019
