@@ -38,7 +38,7 @@ item:
   organization: Ministry of Education of the PRC
   organization_url: http://www.moe.gov.cn/
   title: 2018-2019's National Scholarship
-
+  url: ""
 - certificate_url: https://www.datacamp.com
   date_end: "2017-12-21"
   date_start: "2017-07-01"
