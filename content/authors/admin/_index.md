@@ -28,7 +28,7 @@ organizations:
     url: https://en.uestc.edu.cn/
 education:
   courses:
-    - course: MEng in Artificial Intelligence
+    - course: MEng in Information and Communication Engineering
       institution: University of Electronic Science and Technology of China
       year: 2022
     - course: BSc in Information and Communication Engineering
