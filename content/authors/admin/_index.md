@@ -41,3 +41,7 @@ highlight_name: false
 I am a second-year master student at University of Electronic Science and Technology of China (UESTC), Chengdu, China. I am supervised by [Prof. Yan Chen](http://staff.ustc.edu.cn/~eecyan/) and my research interest is about computer vision and computational imaging, especially on Non-line-of-sight(NLOS) imaging.
 
 I received my Bachelor of Engineering Degree at UESTC in 2019.
+
+
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "![](<file:///C:\Users\gengr\AppData\Roaming\Tencent\QQTempSys\%W@GJ$ACOF(TYDYECOKVDYB.png>)https://github.com/ruixv/ruixu_academic/raw/master/assets/media/encv_20201223.pdf" "newtab" >}}resumé{{< /staticref >}}.
