@@ -16,14 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: swimming-pool
-  icon_pack: fab
+- description: 
+  icon: swimmer
+  icon_pack: fas
   name: swimming
-- description: 90%
-  icon: medium-m
-  icon_pack: fab
-  name: matlab
+- description: 
+  icon: dumbbell
+  icon_pack: fas
+  name: workout
+- description: 
+  icon: route
+  icon_pack: fas
+  name: travel
 
 
 # Uncomment to use emoji icons.
