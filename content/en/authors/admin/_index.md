@@ -1,5 +1,5 @@
 ---
-title: Under Developing?
+title: Ruixu Geng (耿瑞旭)
 role: Graduate Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
