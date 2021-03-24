@@ -47,13 +47,5 @@ experience:
         * Rendered a NLOS dataset using LCT.
         * Exploited GAN to complete 3D NLOS reconstruction.
 
-  - title: Drones' path planning algorithm for blood delivery services 
-    company: Lady Margaret Hall, Oxford University
-    company_url: 'https://www.lmh.ox.ac.uk/'
-    location: UK
-    date_start: '2019-07-31'
-    date_end: '2019-08-31'
-    description: We designed a path planning algorithm for drones that transport blood between Oxfordshire hospitals, considering factors such as the population, architecture, environment, and law.
-
 
 ---
