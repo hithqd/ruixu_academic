@@ -34,7 +34,7 @@ item:
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2019-11"
-  description: Top 0.2% in China.
+  description: "Top 0.2% in China."
   organization: Ministry of Education of the PRC
   organization_url: http://www.moe.gov.cn/
   title: 2018-2019's National Scholarship
