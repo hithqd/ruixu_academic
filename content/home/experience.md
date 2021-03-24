@@ -55,12 +55,5 @@ experience:
     date_end: '2019-08-31'
     description: We designed a path planning algorithm for drones that transport blood between Oxfordshire hospitals, considering factors such as the population, architecture, environment, and law.
 
-  - title: Arduino-based automatic soil irrigation system
-    company: IoT Lab, James Cook University
-    company_url: 'https://www.jcu.edu.au/college-of-science-and-engineering/internet-of-things'
-    location: Australia
-    date_start: '2017-07-20'
-    date_end: '2017-08-06'
-    description: |2-
-        Completed an arduino-based irrigation device that automatically opens valves based on temperature and humidity.
+
 ---
