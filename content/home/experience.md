@@ -21,14 +21,24 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+# - title: Passive NLOS Imaging 
+#   company: Image Processing Institute, UESTC
+#   company_url: ''
+#   location: China
+#   date_start: '2019-11-31'
+#   date_end: '2020-11-15'
 experience:
-  - title: Passive NLOS Imaging 
+  - title: Single Photon NLOS Imaging 
     company: Image Processing Institute, UESTC
     company_url: ''
     location: China
-    date_start: '2019-11-31'
-    date_end: '2020-11-15'
-    description: dawsdww
+    date_start: '2018-08-31'
+    date_end: ''
+    description: |2-
+        The following work has been completed
+        
+        * Produced a large-scale passive NLOS imaging dataset, including 3,136,000 samples.
+        * Proposed a new deep learning network for passive NLOS imaging.
 
   - title: Single Photon NLOS Imaging 
     company: Image Processing Institute, UESTC
