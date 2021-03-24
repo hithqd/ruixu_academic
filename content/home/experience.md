@@ -34,5 +34,19 @@ experience:
         * Building a confocal NLOS imaging system, including pulsed
         * Rendering a NLOS dataset using LCT
         * Exploiting GAN to complete 3D NLOS reconstruction
-         
+
+
+
+  - title: Arduino-based automatic soil irrigation system
+    company: IoT Lab, James Cook University
+    company_url: 'https://www.jcu.edu.au/college-of-science-and-engineering/internet-of-things'
+    location: Australia
+    date_start: '2017-07-20'
+    date_end: '2017-08-06'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 ---
