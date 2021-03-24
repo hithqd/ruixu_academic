@@ -29,10 +29,17 @@ feature:
   icon_pack: fas
   name: Go
 - description: 
+  icon: camera-retro
+  icon_pack: fas
+  name: photography
+- description: 
   icon: route
   icon_pack: fas
   name: travel
-
+- description: 
+  icon: utensils
+  icon_pack: fas
+  name: cuisine
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
