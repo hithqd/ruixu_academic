@@ -22,30 +22,30 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Passive NLOS Imaging 
-    company: Image Processing Institute, UESTC
-    company_url: ''
-    location: China
-    date_start: '2019-11-31'
-    date_end: '2020-11-15'
-    description: |2-
-        The following work has been completed
-        
-        * Produced a large-scale passive NLOS imaging dataset, including 3,136,000 samples.
-        * Proposed a new deep learning network for passive NLOS imaging.
+- title: Passive NLOS Imaging 
+  company: Image Processing Institute, UESTC
+  company_url: ''
+  location: China
+  date_start: '2019-11-31'
+  date_end: '2020-11-15'
+  description: |2-
+      The following work has been completed
+      
+      * Produced a large-scale passive NLOS imaging dataset, including 3,136,000 samples.
+      * Proposed a new deep learning network for passive NLOS imaging.
 
-  - title: Single Photon NLOS Imaging 
-    company: Image Processing Institute, UESTC
-    company_url: ''
-    location: China
-    date_start: '2018-08-31'
-    date_end: ''
-    description: |2-
-        The following work has been completed
-        
-        * Built a confocal NLOS imaging system, including pulsed laser, SPAD and TCSPC. 
-        * Rendered a NLOS dataset using LCT.
-        * Exploited GAN to complete 3D NLOS reconstruction.
+- title: Single Photon NLOS Imaging 
+  company: Image Processing Institute, UESTC
+  company_url: ''
+  location: China
+  date_start: '2018-08-31'
+  date_end: ''
+  description: |2-
+      The following work has been completed
+      
+      * Built a confocal NLOS imaging system, including pulsed laser, SPAD and TCSPC. 
+      * Rendered a NLOS dataset using LCT.
+      * Exploited GAN to complete 3D NLOS reconstruction.
 
 
 ---
