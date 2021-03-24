@@ -38,8 +38,9 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a second-year master student at University of Electronic Science and Technology of China (UESTC), Chengdu, China. I am supervised by [Prof. Yan Chen](http://staff.ustc.edu.cn/~eecyan/) and my research interest is about computer vision and computational imaging, especially on Non-line-of-sight(NLOS) imaging.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I received my Bachelor of Engineering Degree at UESTC in 2019.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/EnCV_20201223.pdf" "newtab" >}}resumé{{< /staticref >}}.
