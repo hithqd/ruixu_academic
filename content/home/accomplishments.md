@@ -25,19 +25,44 @@ date_format: Jan 2006
 item:
 - certificate_url: https://github.com/ruixv/ruixu_academic/blob/master/static/uploads/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%9120172018_%E8%80%BF%E7%91%9E%E6%97%AD.pdf
   date_end: ""
+  date_start: "2020-10-01"
+  description: "The 1-st prize scholarship"
+  organization: UESTC
+  organization_url: https://en.uestc.edu.cn/
+  title: Excellent graduate student of UESTC
+  url: ""
+- certificate_url: https://github.com/ruixv/ruixu_academic/blob/master/static/uploads/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%9120172018_%E8%80%BF%E7%91%9E%E6%97%AD.pdf
+  date_end: ""
+  date_start: "2019-01-01"
+  description: "Top 3% in Sichuan Province"
+  organization: Sichuan Department of Education
+  organization_url: http://edu.sc.gov.cn/
+  title: Outstanding Undergraduate Graduates of Sichuan Province
+  url: ""
+- certificate_url: https://github.com/ruixv/ruixu_academic/blob/master/static/uploads/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%9120172018_%E8%80%BF%E7%91%9E%E6%97%AD.pdf
+  date_end: ""
   date_start: "2018-11-20"
   description: "Top 0.2% in China"
   organization: Ministry of Education of the PRC
   organization_url: http://www.moe.gov.cn/
   title: National Scholarship (2018-2019)
   url: ""
-- certificate_url: https://github.com/ruixv/ruixu_academic/blob/master/static/uploads/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%9120172018_%E8%80%BF%E7%91%9E%E6%97%AD.pdf
+- certificate_url: https://github.com/ruixv/ruixu_academic/blob/master/static/uploads/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%9120162017_%E8%80%BF%E7%91%9E%E6%97%AD.pdf
   date_end: ""
-  date_start: "2018-11-20"
-  description: ""
+  date_start: "2017-11-20"
+  description: "Top 0.2% in China"
   organization: Ministry of Education of the PRC
   organization_url: http://www.moe.gov.cn/
-  title: National Scholarship (2018-2019)
+  title: National Scholarship (2017-2018)
   url: ""
+- certificate_url: https://github.com/ruixv/ruixu_academic/blob/master/static/uploads/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%9120162017_%E8%80%BF%E7%91%9E%E6%97%AD.pdf
+  date_end: ""
+  date_start: "2017-11-20"
+  description: "Top 0.2% in China"
+  organization: Ministry of Education of the PRC
+  organization_url: http://www.moe.gov.cn/
+  title: National Scholarship (2017-2018)
+  url: ""
+
 
 ---
