@@ -35,7 +35,13 @@ experience:
         * Rendering a NLOS dataset using LCT
         * Exploiting GAN to complete 3D NLOS reconstruction
 
-
+  - title: Drones' path planning algorithm for blood delivery services 
+    company: Lady Margaret Hall, Oxford University
+    company_url: 'https://www.lmh.ox.ac.uk/'
+    location: UK
+    date_start: '2019-07-31'
+    date_end: '2019-08-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Arduino-based automatic soil irrigation system
     company: IoT Lab, James Cook University
