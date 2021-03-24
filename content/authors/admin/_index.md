@@ -1,5 +1,5 @@
 ---
-title: Under Developing
+title: Under Developing?
 role: Graduate Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
