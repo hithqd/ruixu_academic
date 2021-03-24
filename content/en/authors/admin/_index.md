@@ -8,6 +8,9 @@ interests:
   - Non-line-of-sight(NLOS) Imaging
   - Image Retrieval
 social:
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: gengruixv@163.com
   - icon: weixin
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
