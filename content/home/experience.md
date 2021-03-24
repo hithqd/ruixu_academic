@@ -34,8 +34,8 @@ experience:
     company: IoT Lab, James Cook University
     company_url: ''
     location: Australia
-    date_start: '2017-07-08'
-    date_end: ''
+    date_start: '2017-07-20'
+    date_end: '2017-08-06'
     description: |2-
         Responsibilities include:
         
