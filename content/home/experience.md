@@ -21,7 +21,19 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:   
+experience:
+  - title: Passive NLOS Imaging 
+    company: Image Processing Institute, UESTC
+    company_url: ''
+    location: China
+    date_start: '2019-11-31'
+    date_end: '2020-11-15'
+    description: |2-
+        The following work has been completed
+        
+        * Produced a large-scale passive NLOS imaging dataset, including 3,136,000 samples.
+        * Proposed a new deep learning network for passive NLOS imaging.
+
   - title: Single Photon NLOS Imaging 
     company: Image Processing Institute, UESTC
     company_url: ''
@@ -31,9 +43,9 @@ experience:
     description: |2-
         The following work has been completed
         
-        * Building a confocal NLOS imaging system, including pulsed
-        * Rendering a NLOS dataset using LCT
-        * Exploiting GAN to complete 3D NLOS reconstruction
+        * Built a confocal NLOS imaging system, including pulsed laser, SPAD and TCSPC. 
+        * Rendered a NLOS dataset using LCT.
+        * Exploited GAN to complete 3D NLOS reconstruction.
 
   - title: Drones' path planning algorithm for blood delivery services 
     company: Lady Margaret Hall, Oxford University
@@ -41,7 +53,7 @@ experience:
     location: UK
     date_start: '2019-07-31'
     date_end: '2019-08-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: We designed a path planning algorithm for drones that transport blood between Oxfordshire hospitals, considering factors such as the population, architecture, environment, and law.
 
   - title: Arduino-based automatic soil irrigation system
     company: IoT Lab, James Cook University
@@ -50,9 +62,5 @@ experience:
     date_start: '2017-07-20'
     date_end: '2017-08-06'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Completed an arduino-based irrigation device that automatically opens valves based on temperature and humidity.
 ---
