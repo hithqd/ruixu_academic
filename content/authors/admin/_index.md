@@ -44,4 +44,4 @@ I received my Bachelor of Engineering Degree at UESTC in 2019.
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/encv_20201223.pdf" "newtab" >}}resumé{{< /staticref >}} or {{< staticref "uploads/encv_20201223.pdf" "newtab" >}}简历{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/encv_20201223.pdf" "newtab" >}}resumé{{< /staticref >}} or {{< staticref "uploads/ChineseCV_2.pdf" "newtab" >}}简历{{< /staticref >}}
