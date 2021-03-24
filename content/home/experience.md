@@ -28,7 +28,7 @@ date_format: Jan 2006
 #   date_start: '2019-11-31'
 #   date_end: '2020-11-15'
 experience:
-  - title: Single Photon NLOS Imaging 
+  - title: Passive NLOS Imaging 
     company: Image Processing Institute, UESTC
     company_url: ''
     location: China
