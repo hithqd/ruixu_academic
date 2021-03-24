@@ -42,5 +42,4 @@ I am a second-year master student at University of Electronic Science and Techno
 
 I received my Bachelor of Engineering Degree at UESTC in 2019.
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/EnCV_20201223.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/ruixv/ruixu_academic/raw/master/assets/media/encv_20201223.pdf" "newtab" >}}resumé{{< /staticref >}}.
