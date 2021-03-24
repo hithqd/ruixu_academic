@@ -17,17 +17,14 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: python
+  icon: swimming-pool
   icon_pack: fab
-  name: python
+  name: swimming
 - description: 90%
   icon: medium-m
   icon_pack: fab
   name: matlab
-- description: 10%
-  icon: :swimmer:
-  icon_pack: fas
-  name: swimming
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
