@@ -1,7 +1,7 @@
 ---
 title: Ruixu Geng (耿瑞旭)
 role: Graduate Student
-bio: My research interests include computational imaging (especially Non-line-of-sight imaging) and computer vision.
+bio: My research interests include computer vision and computational imaging, especially Non-line-of-sight (NLOS) imaging.
 interests:
   - Computational Imaging
   - Non-line-of-sight(NLOS) Imaging
