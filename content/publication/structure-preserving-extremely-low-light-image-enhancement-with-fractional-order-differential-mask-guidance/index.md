@@ -4,12 +4,11 @@ title: Structure-Preserving Extremely Low Light Image Enhancement with
 publication_types:
   - "1"
 authors:
-  - Liu
-  - Yijun and Wang
-  - Zhengning and Geng
-  - Ruixu and Zeng
-  - Hao and Zeng
-  - Yi
+  - Yijun Liu
+  - Zhengning Wang
+  - Ruixu Geng
+  - Hao Zeng
+  - Yi Zeng
 publication: ACM Multimedia Asia 2020
 draft: false
 featured: false
