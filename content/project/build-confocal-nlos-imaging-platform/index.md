@@ -2,7 +2,7 @@
 title: "Build Confocal NLOS Imaging platform "
 subtitle: according to O'Toole et al.
 summary: NLOS imaging system modeled on the confocal setting proposed by O'Toole et al.
-date: 2021-03-25T04:41:26.771Z
+date: 2020-01-25T04:41:26.771Z
 draft: false
 featured: false
 tags:
