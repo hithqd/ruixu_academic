@@ -1,0 +1,21 @@
+---
+title: Parameters Calibration and Imaging for CT System
+publication_types:
+  - "2"
+authors:
+  - Ruixu GENG
+  - Diyuan Wu 
+  - Guangxu YANG
+  - Guanghui CHENG
+publication: Experiment Science and Technology
+draft: false
+featured: false
+tags:
+  - reconstruction
+  - CT
+image:
+  filename: ""
+  focal_point: Smart
+  preview_only: false
+date: 2018-09-25T01:56:04.059Z
+---
