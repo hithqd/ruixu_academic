@@ -37,14 +37,6 @@ tags:
   - deep learning
   - transient imaging
 categories: []
-projects:
-  - example
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: ""
-  preview_only: false
-  alt_text: ""
-  filename: example
 date: 2019-06-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2019-06-01T00:00:00.000Z
