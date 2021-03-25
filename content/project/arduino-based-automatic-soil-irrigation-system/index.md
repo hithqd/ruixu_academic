@@ -5,7 +5,7 @@ draft: false
 featured: false
 external_link: https://translate.google.cn/
 image:
-  filename: ""
   focal_point: Smart
+  caption: Temperature and humidity measured using Arduino and sensors
   preview_only: false
 ---

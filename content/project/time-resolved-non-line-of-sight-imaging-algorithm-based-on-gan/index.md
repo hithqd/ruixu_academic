@@ -5,7 +5,7 @@ draft: false
 featured: false
 external_link: https://translate.google.cn/
 image:
-  filename: ""
   focal_point: Smart
+  caption: Using GAN to complete 3D NLOS reconstruction
   preview_only: false
 ---
