@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
 - Shortest path
-external_link: https://translate.google.cn/
+external_link: ""
 image:
   filename: ""
   focal_point: Smart

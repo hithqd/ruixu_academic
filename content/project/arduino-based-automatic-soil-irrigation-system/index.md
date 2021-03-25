@@ -6,7 +6,7 @@ featured: false
 tags:
 - IoT
 - Hardware
-external_link: https://translate.google.cn/
+external_link: ""
 image:
   focal_point: Smart
   caption: Temperature and humidity measured using Arduino and sensors

@@ -9,7 +9,7 @@ tags:
 - Autoencoder
 - Optimal transport
 - Feature learning
-external_link: https://blog.csdn.net/caojixinyu/article/details/104636573
+external_link: ""
 image:
   focal_point: Smart
   caption: Input shadow, output reconstruction result and real hidden scene
