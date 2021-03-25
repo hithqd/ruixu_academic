@@ -9,7 +9,7 @@ tags:
 - NLOS imaging
 - Optics
 - Active Imaging
-external_link: https://translate.google.cn/
+external_link: 
 image:
   focal_point: Smart
   caption: Using GAN to complete 3D NLOS reconstruction
