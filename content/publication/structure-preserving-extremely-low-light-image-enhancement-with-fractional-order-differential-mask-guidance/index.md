@@ -10,7 +10,7 @@ authors:
   - Ruixu and Zeng
   - Hao and Zeng
   - Yi
-publication: "{ACM} {Multimedia} {Asia} 2020"
+publication: ACM Multimedia Asia 2020
 draft: false
 featured: false
 tags:
