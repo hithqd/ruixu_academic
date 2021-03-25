@@ -33,7 +33,7 @@ M. O’Toole, D. B. Lindell, and G. Wetzstein, “Confocal non-line-of-sight ima
 
 In mid-2018, under the guidance of our mentor, we plan to follow the work of Stanford University O'Toole and others on time-resolved NLOS imaging
 
-M. O’Toole, D. B. Lindell, and G. Wetzstein, “Confocal non-line-of-sight imaging based on the light-cone transform,” Nature, vol. 555, no. 7696, p. 338, 2018, doi: https://doi.org/10.1038/nature25489.
+> M. O’Toole, D. B. Lindell, and G. Wetzstein, “Confocal non-line-of-sight imaging based on the light-cone transform,” Nature, vol. 555, no. 7696, p. 338, 2018, doi: https://doi.org/10.1038/nature25489.
 
 We purchased corresponding equipment, including ultrafast pulse lasers, single-photon avalanche diodes, time-dependent single-photon counters, etc., and purchased an optical platform.
 
