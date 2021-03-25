@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: '荣誉'
 subtitle:
 
 # Date format
@@ -26,50 +26,50 @@ item:
 - certificate_url: https://ieeextreme.org/ieeextreme-14-0-ranking/
   date_end: ""
   date_start: "2020-12-01"
-  description: "Top 10% in the world"
+  description: "全球前10%"
   organization: IEEE
   organization_url: https://ieeextreme.org/ieeextreme-14-0-ranking/
-  title: IEEEXtreme 24-hours of competitive programming
+  title: IEEE极限编程大赛
   url: ""
 - certificate_url: http://47.96.38.210:5000/images/shengyou.jpg
   date_end: ""
   date_start: "2019-01-01"
-  description: "Top 3% in Sichuan Province"
-  organization: Sichuan Department of Education
+  description: ""
+  organization: 四川省教育厅
   organization_url: http://edu.sc.gov.cn/
-  title: Outstanding Undergraduate Graduates of Sichuan Province
+  title: 四川省优秀(本科)毕业生
   url: ""
 - certificate_url: http://47.96.38.210:5000/images/1718guo.jpg
   date_end: ""
   date_start: "2018-11-20"
-  description: "Top 0.2% in China"
-  organization: Ministry of Education of the PRC
+  description: ""
+  organization: 教育部
   organization_url: http://www.moe.gov.cn/
-  title: National Scholarship (2018-2019)
+  title: 国家奖学金 (2018-2019)
   url: ""
 - certificate_url: http://47.96.38.210:5000/images/meisai.jpg
   date_end: ""
   date_start: "2018-05-10"
-  description: "Top 7% in the world"
-  organization: Consortium for Mathematics and Its Applications
+  description: "前7%"
+  organization: 美国数学与应用联合会
   organization_url: https://www.comap.com/undergraduate/contests/
-  title: Meritorious Winner in Interdisciplinary Contest in Modeling
+  title: 美国大学生交叉建模竞赛一等奖
   url: ""
 - certificate_url: http://47.96.38.210:5000/images/1617guo.jpg
   date_end: ""
   date_start: "2017-11-20"
-  description: "Top 0.2% in China"
-  organization: Ministry of Education of the PRC
+  description: ""
+  organization: 教育部
   organization_url: http://www.moe.gov.cn/
-  title: National Scholarship (2017-2018)
+  title: 国家奖学金 (2017-2018)
   url: ""
 - certificate_url: http://47.96.38.210:5000/images/shumo.jpg
   date_end: ""
   date_start: "2017-10-01"
-  description: "Top 1% in China"
-  organization: China Society for Industrial and Applied Mathematics
+  description: "前1%"
+  organization: 中国工业与应用数学学会
   organization_url: https://www.csiam.org.cn/
-  title: National First Price in the Chinese College Students Mathematical Contest in Modeling
+  title: 全国大学生数学建模竞赛一等奖
   url: ""
 
 
