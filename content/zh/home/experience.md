@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Research Experience
+title: 研究经历
 subtitle:
 
 # Date format for experience
@@ -28,28 +28,28 @@ date_format: Jan 2006
 #   date_start: '2019-11-31'
 #   date_end: '2020-11-15'
 experience:
-  - title: Passive NLOS Imaging 
-    company: Image Processing Institute, UESTC
+  - title: 数据驱动的被动非视域成像
+    company: 电子科技大学，图像处理研究所
     company_url: ''
     location: China
     date_start: '2019-11-01'
     date_end: '2020-11-15'
     description: |2-
-        The following work has been completed
+        主要完成了以下工作
         
-        * Produced a large-scale passive NLOS imaging dataset, including 3,136,000 samples.
-        * Proposed a new deep learning network for passive NLOS imaging.
+        * 制作了一个大规模被动非视域成像数据集，数据集包含了超过300万张图片；
+        * 提出了一个适合被动非视域成像任务的深度学习网络结构。
 
-  - title: Single Photon NLOS Imaging 
-    company: Image Processing Institute, UESTC
+  - title: 单光子主动非视域成像
+    company: 电子科技大学，图像处理研究所
     company_url: ''
     location: China
     date_start: '2018-08-31'
     date_end: ''
     description: |2-
-        The following work has been completed
+        主要完成了以下工作
         
-        * Built a confocal NLOS imaging system, including pulsed laser, SPAD and TCSPC. 
+        * 根据O'Toole等人的文章搭建了共焦非视域成像平台 
         * Rendered a NLOS dataset using LCT.
         * Exploited GAN to complete 3D NLOS reconstruction.
   - title: Drones' path planning algorithm for blood delivery services 
