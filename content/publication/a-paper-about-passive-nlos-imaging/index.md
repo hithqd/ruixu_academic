@@ -10,7 +10,7 @@ authors:
   - Cong;Li
   - Houqiang;Chen
   - Yan;
-publication: IEEE Transactions on Image Processing (JUST submitted)
+publication: has been submitted to IEEE Transactions on Image Processing
 draft: false
 featured: false
 image:
