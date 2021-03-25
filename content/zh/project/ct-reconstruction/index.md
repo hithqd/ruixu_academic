@@ -1,5 +1,5 @@
 ---
-title: CT system parameter calibration and imaging
+title: CT系统参数标定和成像
 date: 2017-09-25T07:38:57.525Z
 # 使用优化算法和Radon变换完成CT系统的参数标定和成像
 summary: 使用优化算法和Radon变换完成CT系统的参数标定和成像

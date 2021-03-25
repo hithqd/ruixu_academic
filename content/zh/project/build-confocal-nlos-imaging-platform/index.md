@@ -1,5 +1,5 @@
 ---
-title: "Build Confocal NLOS Imaging platform "
+title: 搭建共焦非视距成像平台
 subtitle: according to O'Toole et al.
 summary: 根据O'Toole等人的文章搭建的共焦非视距成像系统
 date: 2020-01-25T04:41:26.771Z

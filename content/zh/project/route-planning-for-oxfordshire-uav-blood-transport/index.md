@@ -1,5 +1,5 @@
 ---
-title: "Route planning for Oxfordshire UAV blood transport "
+title: 牛津郡无人机血液运输问题路径规划
 date: 2019-08-25T06:29:29.262Z
 draft: false
 # 探索利用无人机运输血液制品的可行性

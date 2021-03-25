@@ -1,5 +1,5 @@
 ---
-title: Passive NLOS imaging based on menifold embedding
+title: 基于流形嵌入的被动非视距成像
 date: 2020-10-25T06:28:31.806Z
 draft: false
 featured: false

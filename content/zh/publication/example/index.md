@@ -30,7 +30,7 @@ url_video: ""
 title: Active NLOS imaging based on deep learning
 subtitle: ""
 doi: ""
-featured: true
+featured: false
 tags:
   - NLOS imaging
   - GAN

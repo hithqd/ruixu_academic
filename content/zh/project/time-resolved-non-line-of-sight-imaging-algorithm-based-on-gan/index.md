@@ -1,9 +1,9 @@
 ---
-title: Time-resolved NLOS imaging algorithm based on GAN
+title: 基于GAN的单光子非视域成像
 date: 2019-09-25T07:10:12.824Z
 draft: false
 # 使用GAN完成数据驱动的主动非视距成像
-summary: 使用GAN完成数据驱动的主动非视距成像
+summary: 使用GAN完成数据驱动的主动非视域成像
 featured: false
 tags:
 - GAN

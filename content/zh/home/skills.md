@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 125
 
-title: Hobbies
+title: 爱好
 subtitle:
 
 # Showcase personal skills or business features.
