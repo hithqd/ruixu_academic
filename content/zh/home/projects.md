@@ -25,13 +25,13 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
+  - name: 全部
     tag: '*'
-  - name: NLOS imaging
+  - name: 非视域成像
     tag: NLOS imaging
-  - name: Deep Learning
+  - name: 深度学习
     tag: Deep Learning
-  - name: Hardware
+  - name: 硬件
     tag: Hardware
 
 design:

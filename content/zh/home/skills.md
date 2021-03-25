@@ -19,27 +19,27 @@ feature:
 - description: 
   icon: swimmer
   icon_pack: fas
-  name: swimming
+  name: 游泳
 - description: 
   icon: dumbbell
   icon_pack: fas
-  name: workout
+  name: 健身
 - description: 
   icon: chess-board
   icon_pack: fas
-  name: Go
+  name: 围棋
 - description: 
   icon: camera-retro
   icon_pack: fas
-  name: photography
+  name: 拍照
 - description: 
   icon: route
   icon_pack: fas
-  name: travel
+  name: 旅游
 - description: 
   icon: utensils
   icon_pack: fas
-  name: cuisine
+  name: 美食
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

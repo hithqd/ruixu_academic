@@ -31,7 +31,7 @@ experience:
   - title: 数据驱动的被动非视域成像
     company: 电子科技大学，图像处理研究所
     company_url: ''
-    location: China
+    location: 中国
     date_start: '2019-11-01'
     date_end: '2020-11-15'
     description: |2-
@@ -43,29 +43,29 @@ experience:
   - title: 单光子主动非视域成像
     company: 电子科技大学，图像处理研究所
     company_url: ''
-    location: China
+    location: 
     date_start: '2018-08-31'
     date_end: ''
     description: |2-
         主要完成了以下工作
         
-        * 根据O'Toole等人的文章搭建了共焦非视域成像平台 
-        * Rendered a NLOS dataset using LCT.
-        * Exploited GAN to complete 3D NLOS reconstruction.
-  - title: Drones' path planning algorithm for blood delivery services 
-    company: Lady Margaret Hall, Oxford University
+        * 根据O'Toole等人的文章搭建了共焦非视域成像平台；
+        * 使用LCT模型渲染合成了主动NLOS仿真数据集；
+        * 实现了基于GAN的3D非视距成像。
+  - title: 用于血液制品运输的无人机路径规划(以牛津郡为例)
+    company: 牛津大学
     company_url: 'https://www.lmh.ox.ac.uk/'
-    location: UK
+    location: 英国
     date_start: '2019-07-31'
     date_end: '2019-08-31'
-    description: We designed a path planning algorithm for drones that transport blood between Oxfordshire hospitals, considering factors such as the population, architecture, environment, and law.
+    description: 针对牛津郡各个医院间使用无人机的血液运输任务，我们设计了要给路径规划算法。该算法的设计综合考虑了人口、建筑物、环境和当地法律等影响因素。
 
-  - title: Arduino-based automatic soil irrigation system
-    company: IoT Lab, James Cook University
+  - title: 基于Arduino的自动灌溉系统
+    company: 物联网实验室, 詹姆斯库克大学
     company_url: 'https://www.jcu.edu.au/college-of-science-and-engineering/internet-of-things'
-    location: Australia
+    location: 澳大利亚
     date_start: '2017-07-20'
     date_end: '2017-08-06'
-    description: Completed an arduino-based irrigation device that automatically opens valves based on temperature and humidity.
+    description: 实现了一个能够自动根据温湿度开关阀门的自动灌溉系统。
 
 ---

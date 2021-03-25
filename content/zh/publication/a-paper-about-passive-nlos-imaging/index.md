@@ -9,7 +9,7 @@ authors:
   - Cong Yu
   - Houqiang Li
   - Yan Chen
-publication: has been submitted to IEEE Transactions on Image Processing
+publication: has been **submitted** to IEEE Transactions on Image Processing
 draft: false
 featured: false
 tags:
