@@ -11,7 +11,7 @@ abstract: >-
 
 
   In order to overcome the shortcomings of traditional imaging and improve the reconstruction speed, this paper proposes a three-dimensional reconstruction algorithm for non-line-of-sight imaging based on deep learning. The reconstruction algorithm firstly obtains 30,000 simulation data as a dataset by simulating existed imaging model. Then, we build, train and test a reconstructing algorithm based on deep learning using the conditional GAN with similar results to traditional reconstruction algorithms. Through contrast experiments, it is concluded that the deep learning-based reconstruction algorithm is more robust to parameter correction errors and can effectively reduce the high dependence on parameter calibration. In addition, based on deep learning, the reconstruction algorithm only needs 20ms to reconstruct a single hidden scene, while the traditional algorithm requires at least 0.2s. Therefore, the reconstruction algorithm based on deep learning can greatly improve the reconstruction speed of non-line-of-sight imaging. Finally, this paper analyzes the shortcomings and improvement schemes of the proposed non-line-of-sight imaging algorithm based on deep learning.
-slides: example
+# slides: example
 url_pdf: ""
 publication_types:
   - "7"
@@ -44,6 +44,7 @@ image:
   focal_point: ""
   preview_only: false
   alt_text: ""
+  filename: example
 date: 2019-06-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2019-06-01T00:00:00.000Z
