@@ -8,7 +8,7 @@ tags:
   - NLOS imaging
 external_link: https://wowchemy.com/user-stories/
 image:
-  filename: ""
+  filename: img_1770.jpg
   focal_point: Smart
   preview_only: false
 ---
