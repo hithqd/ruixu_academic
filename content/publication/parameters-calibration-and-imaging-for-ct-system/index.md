@@ -3,11 +3,10 @@ title: Parameters Calibration and Imaging for CT System
 publication_types:
   - "2"
 authors:
-  - Ruixu
-  - GENG and Diyuan
-  - WU and Guangxu
-  - YANG and Guanghui
-  - CHENG
+  - Ruixu GENG
+  - Diyuan Wu 
+  - Guangxu YANG
+  - Guanghui CHENG
 publication: Experiment Science and Technology
 draft: false
 featured: false

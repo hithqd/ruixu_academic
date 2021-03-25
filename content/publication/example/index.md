@@ -16,8 +16,7 @@ url_pdf: ""
 publication_types:
   - "7"
 authors:
-  - Ruixu
-  - Geng
+  - Ruixu Geng
 author_notes: []
 publication: Bachelor Thesis
 summary: This thesis synthesizes NLOS dataset by rendering (based on LCT

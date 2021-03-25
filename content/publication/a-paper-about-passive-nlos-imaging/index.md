@@ -3,13 +3,12 @@ title: A paper about passive NLOS imaging
 publication_types:
   - "2"
 authors:
-  - Geng
-  - Ruixu;Hu
-  - Yang;Lu
-  - Zhi;Yu
-  - Cong;Li
-  - Houqiang;Chen
-  - Yan;
+  - Ruixu Geng 
+  - Yang Hu
+  - Zhi Lu
+  - Cong Yu
+  - Houqiang Li
+  - Yan Chen
 publication: has been submitted to IEEE Transactions on Image Processing
 draft: false
 featured: false
