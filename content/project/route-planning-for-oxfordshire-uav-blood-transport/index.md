@@ -3,6 +3,8 @@ title: "Route planning for Oxfordshire UAV blood transport "
 date: 2019-08-25T06:29:29.262Z
 draft: false
 featured: false
+tags:
+- Shortest path
 external_link: https://translate.google.cn/
 image:
   filename: ""

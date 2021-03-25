@@ -3,6 +3,12 @@ title: Passive NLOS imaging based on menifold embedding
 date: 2020-10-25T06:28:31.806Z
 draft: false
 featured: false
+tags:
+- Passive imaging
+- NLOS imaging
+- Autoencoder
+- Optimal transport
+- Feature learning
 external_link: https://blog.csdn.net/caojixinyu/article/details/104636573
 image:
   focal_point: Smart

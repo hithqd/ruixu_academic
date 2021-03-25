@@ -3,6 +3,9 @@ title: Arduino-based automatic soil irrigation system
 date: 2018-07-25T07:12:05.657Z
 draft: false
 featured: false
+tags:
+- IoT
+- Hardware
 external_link: https://translate.google.cn/
 image:
   focal_point: Smart
