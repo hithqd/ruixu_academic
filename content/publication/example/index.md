@@ -44,7 +44,6 @@ image:
   focal_point: ""
   preview_only: false
   alt_text: ""
-  filename: example.jpg
 date: 2019-06-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2019-06-01T00:00:00.000Z

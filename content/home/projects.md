@@ -33,8 +33,6 @@ content:
     tag: Deep Learning
   - name: Hardware
     tag: Hardware
-  - name: Algorithm
-    tag: Algorithm
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
