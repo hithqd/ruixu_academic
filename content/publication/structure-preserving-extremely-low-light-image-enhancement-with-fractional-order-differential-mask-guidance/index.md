@@ -13,6 +13,8 @@ authors:
 publication: "{ACM} {Multimedia} {Asia} 2020"
 draft: false
 featured: false
+tags:
+  - Image Enhancement
 image:
   filename: ""
   focal_point: Smart
