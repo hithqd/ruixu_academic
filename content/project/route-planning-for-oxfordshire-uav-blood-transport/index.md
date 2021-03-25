@@ -9,3 +9,5 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+{{< video library="true" src="Brian Amy The British Grenadiers.mp4" controls="yes" >}}
