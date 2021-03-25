@@ -12,16 +12,16 @@ social:
   #   link: gengruixv@163.com
   - icon: weixin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: http://47.96.38.210:5000/images/weixin.jpg
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: ""
   - icon: github
     icon_pack: fab
     link: https://github.com/ruixv
   - icon: zhihu
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.zhihu.com/people/geng-rui-xu
 organizations:
   - name: UESTC
     url: https://en.uestc.edu.cn/
