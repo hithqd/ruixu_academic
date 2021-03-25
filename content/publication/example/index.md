@@ -31,7 +31,11 @@ title: Active NLOS imaging based on deep learning
 subtitle: ""
 doi: ""
 featured: true
-tags: []
+tags:
+  - NLOS imaging
+  - GAN
+  - deep learning
+  - transient imaging
 categories: []
 projects:
   - example

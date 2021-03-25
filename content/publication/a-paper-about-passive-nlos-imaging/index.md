@@ -12,6 +12,11 @@ authors:
 publication: has been submitted to IEEE Transactions on Image Processing
 draft: false
 featured: false
+tags:
+  - NLOS imaging
+  - image restoration
+  - deep learning
+  - computational periscopy
 image:
   filename: ""
   focal_point: Smart
