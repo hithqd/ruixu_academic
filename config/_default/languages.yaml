@@ -12,9 +12,9 @@ en:
 zh:
  languageCode: zh-Hans
  contentDir: content/zh
- title: Chinese website title...
+ title: 中文主页
  params:
-   description: Site description in Chinese...
+   description: Homepage in Chinese
  menu:
    main:
       - name: 主页

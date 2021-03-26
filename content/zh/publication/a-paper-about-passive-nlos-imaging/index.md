@@ -6,7 +6,7 @@ authors:
   - Ruixu Geng 
   - Yang Hu
   - Zhi Lu
-  - Cong Yu
+  - Cong Yu 
   - Houqiang Li
   - Yan Chen
 publication: has been **submitted** to IEEE Transactions on Image Processing
