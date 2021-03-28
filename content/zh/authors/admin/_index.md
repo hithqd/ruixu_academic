@@ -37,7 +37,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Hi~我是电子科技大学信息与通信工程学院硕士二年级的学生，导师为[陈彦教授](http://staff.ustc.edu.cn/~eecyan/)。 我的研究兴趣包括计算机视觉和计算成像，我从大四开始便一直进行非视距成像研究。
+Hi~我是电子科技大学信息与通信工程学院硕士二年级的学生，导师为[陈彦教授](http://staff.ustc.edu.cn/~eecyan/)。 我的研究兴趣包括计算机视觉和计算成像，尤其是非视域成像。
 <!-- I am a second-year master student at University of Electronic Science and Technology of China (UESTC), Chengdu, China. I am supervised by [Prof. Yan Chen](http://staff.ustc.edu.cn/~eecyan/) and my research interest is about computer vision and computational imaging, especially on Non-line-of-sight(NLOS) imaging. -->
 
 <!-- I received my Bachelor of Engineering Degree at UESTC in 2019. -->

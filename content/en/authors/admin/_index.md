@@ -4,7 +4,7 @@ role: Graduate Student
 bio: My research interests include computer vision and computational imaging, especially Non-line-of-sight (NLOS) imaging.
 interests:
   - Computational Imaging
-  - Non-line-of-sight(NLOS) Imaging
+  - Non-line-of-sight (NLOS) Imaging
   - Image Retrieval
 social:
   # - icon: envelope
@@ -29,7 +29,7 @@ education:
   courses:
     - course: MEng in Information and Communication Engineering
       institution: University of Electronic Science and Technology of China
-      year: 2022
+      year: 2022  
     - course: BSc in Information and Communication Engineering
       institution: University of Electronic Science and Technology of China
       year: 2019
